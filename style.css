@@ -73,7 +73,7 @@
     transform: translateY(300px);
     opacity: 0;
 
-    animation: 1s 5s forwards ease-out introOpenB;
+    animation: 1s 0s forwards ease-out introOpenB;
 
 }
 
@@ -85,7 +85,7 @@
     text-shadow: 5px 5px 5px black;
     font-family: sans-serif;
     color: rgb(190, 196, 255);
-    font-size: 50px;
+    font-size: 80px;
     width: 200%;
 
     transform: translateX(-25%);
