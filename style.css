@@ -43,7 +43,7 @@
     border-color: rgb(190, 196, 255);
     border-style: solid;
     padding: 20px;
-    width: 700px;
+    width: 690px;
     opacity: 0;
 
     animation: 1s 0.8s ease-out forwards introOpenP;
