@@ -1,0 +1,120 @@
+<!-- BASIC CODES
+ <!DOCTYPE html> always at the start of coding like frizzy with the public void domain expansion thing
+ <html> and </html> all codes must be inside that bracket. Also / in brackets are basically end things
+ h1-h6 lowest means largest size, whilst largest means lowest size
+ <hr> stands for HORIZONTAL LINE
+ <p></p> stands for PARAGRAPH
+ <title></title> changes your tabs name
+ <br> stands for BREAK LINE
+ 
+    LESSON 2: HYPER LINKS  
+    
+    <a href="https://www.google.com">Google</a> this is a hyperlink, and it will take you to google.com when clicked on.
+    <a href="https://www.roblox.com/home" target="_blank">Roblox</a>, typing out target=_BLANK results on making a new tab.
+    <a href="https://www.roblox.com/home" title="Roblox">Roblox</a>, typing out the title results on showing a mini description when hovering your mouse.
+    <a href="dermanjack819@gmail.com"> Email</a>, opens email when clicked on.
+    
+    LESSON 3: IMAGES
+
+    <img src="skibidi.jpg">
+
+    miscellaneous information:
+    • You can put hyperlinks on an image
+    • You can put title on the toilet
+    
+    LESSON 4: AUDIOS
+
+    works similar to IMAGES lesson
+
+    <audio src="skibidi.mp3">
+
+    LESSON 5: VIDEOS
+
+    same as audios
+
+    <video src="Morning.mp3">
+
+    LESSON 6: Text Formatting
+
+    <b> bold </b>
+    <i> italic </i>
+    <sup> superscript </sup>
+    <sub> subscript </sub>
+    <big> big </big>
+    <small> small </small>
+    <ins> inserted </ins>
+    <del> crossed </del>
+    <mark> highlighted </mark>
+
+    LESSON 7: Lists
+
+    <ul>
+
+        <li> Toilet </li>
+
+    </ul>
+
+    <ol> [You can use types such being: <ol type="A, I, a, 1, i"></ol>]
+
+        <li> Toilet </li>
+
+    </ol>
+
+    <dl>
+    <dt> Toilet </dt>
+    <dd> This is a toilet</dd>
+    </dl>
+    LESSON 8: Tables
+
+    <table>
+
+        <tr>
+            <th></th> [defines as TABLE HEADER]
+
+        </tr> [defines as TABLE ROW]
+
+        <tr>
+            <td></td> [defines as TABLE DATA]
+
+        </tr>
+
+    </table>
+
+    you can customize the appearance of each:
+
+    <tr bgcolor = "grey"> 
+
+        
+
+    </tr>
+
+    <table bgcolor = "black">
+
+
+    </table>
+
+    attributes: align="centered", bgcolor="grey" 
+
+    LESSON 9: COLORS
+    
+    style = "" a lot of usage
+
+    LESSON 10: SPAN & DIV
+    
+    <span></span> [span selects the specific text or document]
+    <div></div> [div or can be called divide. Can be used to control the back of an document or text]
+    
+    LESSON 11: META TAGS
+
+    <meta> doesn't have need a closing code. But can only be used in the <head></head>
+
+    attributes:
+
+    1. <meta description="The Remembrance of fading Memories to ones mind"
+    2. <meta keywords="Remembrance, Memory, Fading"
+    3. <meta author="Kyaw">
+    4. <meta viewport="width=device-width, initial-scale=1.0"> [mobile ratio]
+    5. <meta http-equiv="refresh" content="30"> [this refreshes the website in value time given]
+    6. <meta charset="UTF-8"> [better security?]
+
+    -->
