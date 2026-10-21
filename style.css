@@ -85,7 +85,7 @@
     text-shadow: 5px 5px 5px black;
     font-family: sans-serif;
     color: rgb(190, 196, 255);
-    font-size: 80px;
+    font-size: 200%;
     width: 200%;
 
     transform: translateX(-25%);
