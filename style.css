@@ -73,7 +73,7 @@
     transform: translateY(300px);
     opacity: 0;
 
-    animation: 1s 1s forwards ease-out introOpenB;
+    animation: 1s 5s forwards ease-out introOpenB;
 
 }
 
