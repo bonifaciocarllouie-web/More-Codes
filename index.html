@@ -6,6 +6,19 @@
     <link rel="stylesheet" href="style.css">
     <meta viewport="width=device-width, initial-scale=1.0">
 
+    <script>
+        // Checks if the device is NOT a mobile phone or tablet
+  const isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+  const hasTouch = navigator.maxTouchPoints > 0;
+
+  if (!isMobile && !hasTouch) {
+    // Replaces the entire page with a warning message
+    document.addEventListener("DOMContentLoaded", function() {
+      document.body.innerHTML = "<h1>Access Denied: This website is only compatible on mobile devices.</h1>";
+    });
+  }
+    </script>
+
 </head>
 
 <body>
@@ -18,6 +31,7 @@
         to make victims start doubting whether this contact, content, bank, or advertisements
         are true or false. Cybercrime has been tearing apart businesses by impersonation them and such.
         </b></p>
+        
     <br>
 
 
