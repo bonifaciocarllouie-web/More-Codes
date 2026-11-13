@@ -168,6 +168,32 @@
 
 }
 
+.box2{
+
+    background: rgba(86, 86, 134, 0.5);
+    width: 90%;
+    height: 20%;
+    border-style: solid;
+    border-color: rgb(190, 196, 255);
+    border-radius: 20px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    opacity: 0%;
+  
+     animation: 1s 0.2s forwards ease-out boxbelow;
+
+
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    translate: -50% -50%;
+    padding: 20px;
+    
+
+
+}
+
 .boxskib{
 
     background: rgba(86, 86, 134, 0.5);
